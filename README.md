@@ -12,4 +12,5 @@ The model had an accuracy of 98.14% and a small number of false negatives, as yo
 
   ![image](https://user-images.githubusercontent.com/75848451/152553332-50eb50f5-4ac1-4bea-8564-a0d6169b5a41.png)
   
-The model in general had good accuracy and effective results. However, the validation loss and accuracy had a lot of noise during the training. To further improve the model, next time I would choose a different normalization.
+The model in general had good accuracy and effective results. However, the validation loss and accuracy had a lot of noise during the training. To further improve of the model, the normalization pcik would be primordial.
+
